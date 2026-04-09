@@ -1,6 +1,6 @@
 {
   "android": {
-    "min_version": "1.1.0",   ← sube esto
+    "min_version": "1.1.0", 
     "force_update": false,
     "store_url": "https://play.google.com/store/apps/details?id=com.alarmvoice.alarm_voice"
   }
